@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```javascript Hello
 const whoIAm = {
     about: Fullstack Developer,
-    hobbies: ["Play drums", "Listen to music", "Sing", "Travel"],
+    hobbies: ["Play drums 🥁", "Listen to music 🎵", "Sing 🎤", "Travel ✈"],
     technologies: {
         FrontEnd: {
             js: ["React.js", "Vue.js", "Angular.js", "Next.js"],
@@ -32,7 +32,13 @@ const whoIAm = {
         Databases: {
             relational: ["SQL", "PostgresSQL", "Oracle"],
             no-relational: ["Firebase", "MongoDB"]
-        } 
+        }
+        Mobile: {
+            coding: ["Kotlin", "Flutter"]
+        }
+        Design: {
+            programs: ["Figma", "Adobe XD", "Sketch"]
+        }  
     }
 };
 ```
