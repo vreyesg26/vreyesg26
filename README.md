@@ -32,10 +32,10 @@ const whoIAm = {
         Databases: {
             relational: ["SQL", "PostgresSQL", "Oracle"],
             no-relational: ["Firebase", "MongoDB"]
-        }
+        },
         Mobile: {
             coding: ["Kotlin", "Flutter"]
-        }
+        },
         Design: {
             programs: ["Figma", "Adobe XD", "Sketch"]
         }  
