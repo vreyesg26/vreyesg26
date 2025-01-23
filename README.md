@@ -43,10 +43,4 @@ const whoIAm = {
 };
 ```
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vreyesg26&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
-```javascript
-
-Welcome to my Github Repo, you can find all my projects down here 👇🏻
-
-```
+[![GitHub Streak](https://streak-stats.demolab.com?user=vreyesg26&theme=dark&hide_border=true)](https://git.io/streak-stats)
