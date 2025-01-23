@@ -41,8 +41,9 @@ const whoIAm = {
         }  
     }
 };
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vreyesg26)](https://git.io/streak-stats)
 ```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vreyesg26)](https://git.io/streak-stats)
 
 ```javascript
 Welcome to my Github Repo, you can find all my projects down here 👇🏻
