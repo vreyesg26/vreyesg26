@@ -38,14 +38,16 @@ const whoIAm = {
         },
         Design: {
             programs: ["Figma", "Adobe XD", "Sketch"]
-        }  
+        },   
     }
 };
 ```
 
 ```javascript
 
+
 Welcome to my Github Repo, you can find all my projects down here 👇🏻
+
 
 ```
 
